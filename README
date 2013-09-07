@@ -1,0 +1,21 @@
+Download the zip file.
+
+Install Python.
+In Windows and Mac users, http://www.python.org/getit/
+In Linux, lucky guys, most Linux distros comes with bundled with python.
+Try python on the command line to enter the interactive shell and 
+confirm python is installed.
+
+Install ipython, jinja2, tornado and pyreadline
+(http://ipython.org/ipython-doc/stable/install/install.html)
+
+Start ipython notebook inside the folder, and start devouring the joy of learning.
+
+This is the easiest way to get started with python.
+
+Style Guide
+
+http://www.python.org/dev/peps/pep-0008/
+
+
+
