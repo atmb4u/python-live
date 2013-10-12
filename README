@@ -1,4 +1,5 @@
 Step 1: Clone the code.
+git clone https://bitbucket.org/atmb4u/python-live.git 
 
 Step 2: Install Python.
 In Windows and Mac users, http://www.python.org/getit/
