@@ -1,5 +1,9 @@
+Congratulations on choosing python-live
+
+This library lets you learn python from scratch, in less than a day.
+
 Step 1: Clone the code.
-git clone https://bitbucket.org/atmb4u/python-live.git 
+git clone https://github.com/atmb4u/python-live.git 
 
 Step 2: Install Python.
 In Windows and Mac users, http://www.python.org/getit/
