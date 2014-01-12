@@ -32,7 +32,7 @@ Style Guide
 http://www.python.org/dev/peps/pep-0008/
 
 
-**NB: Entire tutorial is in python 2.7**
+**NB: Entire tutorial is in python 2.7 (mostly compatible with 3.x)**
 
 Help
 To find people who can help you on the journey, please check the HELP file located in the same directory.
