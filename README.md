@@ -7,64 +7,64 @@ This library lets you learn python from scratch, in less than a day.
 
 ## Live Previews
 
-[Introduction](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/00_introduction.ipynb)
+1. [Introduction](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/00_introduction.ipynb)
 
-[Arithmetic](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/01_arithmetic.ipynb)
+2. [Arithmetic](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/01_arithmetic.ipynb)
 
-[If Condition](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/03_if_condition.ipynb)
+3. [If Condition](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/03_if_condition.ipynb)
 
-[For Loop](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/04_for_loop.ipynb)
+4. [For Loop](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/04_for_loop.ipynb)
 
-[List](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/05_list.ipynb)
-
-
-[While](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/06_while.ipynb)
+5. [List](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/05_list.ipynb)
 
 
-[Dictionary](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/07_dictionary.ipynb)
+6. [While](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/06_while.ipynb)
 
 
-[Tuple](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/08_tuple.ipynb)
+7. [Dictionary](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/07_dictionary.ipynb)
 
 
-[Comments](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/09_comments.ipynb)
+8. [Tuple](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/08_tuple.ipynb)
 
 
-[Functions](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/10_functions.ipynb)
+9. [Comments](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/09_comments.ipynb)
 
 
-[Set](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/11_set.ipynb)
+10. [Functions](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/10_functions.ipynb)
 
 
-[Boolean](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/12_boolean.ipynb)
+11. [Set](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/11_set.ipynb)
 
 
-[Fibonacci](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/13_fibonacci.ipynb)
+12. [Boolean](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/12_boolean.ipynb)
 
 
-[Class](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/14_class.ipynb)
+13. [Fibonacci](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/13_fibonacci.ipynb)
 
-[Advanced Class](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/15_advanced_class.ipynb)
 
-[Try Except](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/16_try_except.ipynb)
+14. [Class](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/14_class.ipynb)
 
-[Iterators](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/17_iterators.ipynb)
+15. [Advanced Class](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/15_advanced_class.ipynb)
 
-[Generators](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/18_generators.ipynb)
+16. [Try Except](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/16_try_except.ipynb)
 
-[Decorators](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/19_regex.ipynb)
+17. [Iterators](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/17_iterators.ipynb)
 
-[Regular Expressions](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/20_regex.ipynb)
+18. [Generators](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/18_generators.ipynb)
 
-[Web Requests](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/21_webrequest.ipynb)
+19. [Decorators](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/19_regex.ipynb)
 
-[Unit Test](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/22_unittest.ipynb)
+20. [Regular Expressions](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/20_regex.ipynb)
 
-[WSGI Web Server](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/23_wsgi_web_server.ipynb)
+21. [Web Requests](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/21_webrequest.ipynb)
 
-[Conclusion](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/24_conclusion.ipynb)
+22. [Unit Test](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/22_unittest.ipynb)
 
-[Next Steps](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/25_next_steps.ipynb)
+23. [WSGI Web Server](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/23_wsgi_web_server.ipynb)
+
+24. [Conclusion](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/24_conclusion.ipynb)
+
+25. [Next Steps](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/25_next_steps.ipynb)
 
 ## HOW TO
 
