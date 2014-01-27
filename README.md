@@ -7,8 +7,9 @@ This library lets you learn python from scratch, in less than a day.
 
 ## Live Previews
 
-[http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/00_introduction.ipynb](Introduction)
-[http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/01_arithmetic.ipynb](Arithmetic)
+[Introduction](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/00_introduction.ipynb)
+[Arithmetic](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/01_arithmetic.ipynb)
+[If Condition](http://nbviewer.ipython.org/url/raw2.github.com/atmb4u/python-live/master/03_if_condition.ipynb)
 
 
 ## HOW TO
